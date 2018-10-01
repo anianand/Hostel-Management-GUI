@@ -1,0 +1,245 @@
+<div id="mainbar">
+
+    <div class="subheader">
+        <h1 id="h-top-questions">
+                Top Questions
+        </h1>
+        <div id="tabs">
+        <a class="youarehere" href="?tab=interesting" data-nav-xhref="" title="Questions that may be of interest to you based on your history and tag preference" data-value="interesting" data-shortcut="">
+            interesting</a>
+        <a href="?tab=featured" data-nav-xhref="" title="Questions with an active bounty" data-value="featured" data-shortcut="B">
+<span class="bounty-indicator-tab">441</span>            featured</a>
+        <a href="?tab=hot" data-nav-xhref="" title="Questions with the most views, answers, and votes over the last few days" data-value="hot" data-shortcut="H">
+            hot</a>
+        <a href="?tab=week" data-nav-xhref="" title="Questions with the most views, answers, and votes this week" data-value="week" data-shortcut="W">
+            week</a>
+        <a href="?tab=month" data-nav-xhref="" title="Questions with the most views, answers, and votes this month" data-value="month" data-shortcut="M">
+            month</a>
+</div>
+    </div>
+<div id="qlist-wrapper">
+    <div id="question-mini-list">
+        
+
+<div class="question-summary narrow"
+     id="question-summary-39559528"
+     
+     
+     >
+    <div onclick="window.location.href='/questions/39559528/upload-folder-contents-to-another'" class="cp">
+        <div class="votes">
+            <div class="mini-counts"><span title="0 votes">0</span></div>
+            <div>votes</div>
+        </div>
+        <div class="status unanswered">
+            <div class="mini-counts"><span title="0 answers">0</span></div>
+            <div>answers</div>
+        </div>
+        <div class="views">
+            <div class="mini-counts"><span title="1 view">1</span></div>
+            <div>view</div>
+        </div>
+    </div>
+    <div class="summary">
+        
+                    <h3><a href="/questions/39559528/upload-folder-contents-to-another" class="question-hyperlink" title="I have a website which has 2 different hosting servers. The first comes with the website and forces the use of FTP. The second hosting uses SCP and is hosted myself. I normally use SCP, but I would ...">Upload folder contents to another</a></h3>
+        <div class="tags t-apache t-sftp">
+            <a href="/questions/tagged/apache" class="post-tag" title="show questions tagged &#39;apache&#39;" rel="tag">apache</a> <a href="/questions/tagged/sftp" class="post-tag" title="show questions tagged &#39;sftp&#39;" rel="tag">sftp</a> 
+        </div>
+        <div class="started">
+            <a href="/questions/39559528/upload-folder-contents-to-another" class="started-link">asked <span title="2016-09-18 15:46:30Z" class="relativetime">21 secs ago</span></a>
+            <a href="/users/6068191/julian-lachniet">Julian Lachniet</a> <span class="reputation-score" title="reputation score " dir="ltr">68</span>
+        </div>
+    </div>
+</div>
+
+
+<div class="question-summary narrow"
+     id="question-summary-39559527"
+     
+     
+     >
+    <div onclick="window.location.href='/questions/39559527/difference-between-adaboost-and-real-adaboost'" class="cp">
+        <div class="votes">
+            <div class="mini-counts"><span title="0 votes">0</span></div>
+            <div>votes</div>
+        </div>
+        <div class="status unanswered">
+            <div class="mini-counts"><span title="0 answers">0</span></div>
+            <div>answers</div>
+        </div>
+        <div class="views">
+            <div class="mini-counts"><span title="2 views">2</span></div>
+            <div>views</div>
+        </div>
+    </div>
+    <div class="summary">
+        
+                    <h3><a href="/questions/39559527/difference-between-adaboost-and-real-adaboost" class="question-hyperlink" title="I am still confused about what exactly the difference between Real Adaboost and Adaboost. Can someone explain me in detail about that? Thank you.">Difference between Adaboost and Real Adaboost?</a></h3>
+        <div class="tags t-image-processing">
+            <a href="/questions/tagged/image-processing" class="post-tag" title="show questions tagged &#39;image-processing&#39;" rel="tag">image-processing</a> 
+        </div>
+        <div class="started">
+            <a href="/questions/39559527/difference-between-adaboost-and-real-adaboost" class="started-link">asked <span title="2016-09-18 15:46:14Z" class="relativetime">37 secs ago</span></a>
+            <a href="/users/6366839/toechfah-ummah">Toechfah Ummah</a> <span class="reputation-score" title="reputation score " dir="ltr">1</span>
+        </div>
+    </div>
+</div>
+
+
+<div class="question-summary narrow"
+     id="question-summary-39559524"
+     
+     
+     >
+    <div onclick="window.location.href='/questions/39559524/r-column-name-lost-when-indexing'" class="cp">
+        <div class="votes">
+            <div class="mini-counts"><span title="0 votes">0</span></div>
+            <div>votes</div>
+        </div>
+        <div class="status unanswered">
+            <div class="mini-counts"><span title="0 answers">0</span></div>
+            <div>answers</div>
+        </div>
+        <div class="views">
+            <div class="mini-counts"><span title="4 views">4</span></div>
+            <div>views</div>
+        </div>
+    </div>
+    <div class="summary">
+        
+                    <h3><a href="/questions/39559524/r-column-name-lost-when-indexing" class="question-hyperlink" title="When writing: df.stats &lt;- aggregate(var1 ~ var2, data=df, FUN=mean)
+df.stats keeps the column names (var1 andvar2).
+When writing: df.stats &lt;- aggregate(df[,1] ~ df[,2], data=df, FUN=mean)
+df....">R: Column name lost when indexing</a></h3>
+        <div class="tags t-r">
+            <a href="/questions/tagged/r" class="post-tag" title="show questions tagged &#39;r&#39;" rel="tag">r</a> 
+        </div>
+        <div class="started">
+            <a href="/questions/39559524/r-column-name-lost-when-indexing" class="started-link">asked <span title="2016-09-18 15:45:56Z" class="relativetime">54 secs ago</span></a>
+            <a href="/users/3965610/infiniteblue">InfiniteBlue</a> <span class="reputation-score" title="reputation score " dir="ltr">1</span>
+        </div>
+    </div>
+</div>
+
+
+<div class="question-summary narrow"
+     id="question-summary-39559523"
+     
+     
+     >
+    <div onclick="window.location.href='/questions/39559523/chromium-use-mobile-user-agent-not-working'" class="cp">
+        <div class="votes">
+            <div class="mini-counts"><span title="0 votes">0</span></div>
+            <div>votes</div>
+        </div>
+        <div class="status unanswered">
+            <div class="mini-counts"><span title="0 answers">0</span></div>
+            <div>answers</div>
+        </div>
+        <div class="views">
+            <div class="mini-counts"><span title="2 views">2</span></div>
+            <div>views</div>
+        </div>
+    </div>
+    <div class="summary">
+        
+                    <h3><a href="/questions/39559523/chromium-use-mobile-user-agent-not-working" class="question-hyperlink" title="Chrome use-mobile-user-agent not working
+
+Running chrome from command line with flag --use-mobile-user-agent does not open the browser in mobile context (user-agent).
+
+chrome --use-mobile-user-agent= ...">Chromium use-mobile-user-agent not working</a></h3>
+        <div class="tags t-google-chrome t-selenium t-testing t-automated-tests t-chromium">
+            <a href="/questions/tagged/google-chrome" class="post-tag" title="show questions tagged &#39;google-chrome&#39;" rel="tag"><img src="//i.stack.imgur.com/EdUwb.png" height="16" width="18" alt="" class="sponsor-tag-img">google-chrome</a> <a href="/questions/tagged/selenium" class="post-tag" title="show questions tagged &#39;selenium&#39;" rel="tag">selenium</a> <a href="/questions/tagged/testing" class="post-tag" title="show questions tagged &#39;testing&#39;" rel="tag">testing</a> <a href="/questions/tagged/automated-tests" class="post-tag" title="show questions tagged &#39;automated-tests&#39;" rel="tag">automated-tests</a> <a href="/questions/tagged/chromium" class="post-tag" title="show questions tagged &#39;chromium&#39;" rel="tag">chromium</a> 
+        </div>
+        <div class="started">
+            <a href="/questions/39559523/chromium-use-mobile-user-agent-not-working" class="started-link">asked <span title="2016-09-18 15:45:53Z" class="relativetime">58 secs ago</span></a>
+            <a href="/users/5384679/ahmad-bamieh">Ahmad Bamieh</a> <span class="reputation-score" title="reputation score " dir="ltr">2,118</span>
+        </div>
+    </div>
+</div>
+
+
+<div class="question-summary narrow"
+     id="question-summary-39559445"
+     
+     
+     >
+    <div onclick="window.location.href='/questions/39559445/combine-and-add-2-arrays-typescript-lodash-underscore'" class="cp">
+        <div class="votes">
+            <div class="mini-counts"><span title="0 votes">0</span></div>
+            <div>votes</div>
+        </div>
+        <div class="status unanswered">
+            <div class="mini-counts"><span title="0 answers">0</span></div>
+            <div>answers</div>
+        </div>
+        <div class="views">
+            <div class="mini-counts"><span title="6 views">6</span></div>
+            <div>views</div>
+        </div>
+    </div>
+    <div class="summary">
+        
+                    <h3><a href="/questions/39559445/combine-and-add-2-arrays-typescript-lodash-underscore" class="question-hyperlink" title="I have an array of objects that looks like this:  
+
+[  
+  {date: &#39;2016-09-10&#39;, &#39;Post&#39;: 5, &#39;Pickup&#39;: 2},  
+  {date: &#39;2016-09-11&#39;, &#39;Post&#39;: 8, &#39;Pickup&#39;: 2},  
+  {date: &#39;2016-09-12&#39;, &#39;Post&#39;: 0, &#39;Pickup&#39;: ...">Combine and add 2 arrays typescript, lodash, underscore</a></h3>
+        <div class="tags t-typescript t-lodash">
+            <a href="/questions/tagged/typescript" class="post-tag" title="show questions tagged &#39;typescript&#39;" rel="tag">typescript</a> <a href="/questions/tagged/lodash" class="post-tag" title="show questions tagged &#39;lodash&#39;" rel="tag">lodash</a> 
+        </div>
+        <div class="started">
+            <a href="/questions/39559445/combine-and-add-2-arrays-typescript-lodash-underscore" class="started-link">modified <span title="2016-09-18 15:45:52Z" class="relativetime">59 secs ago</span></a>
+            <a href="/users/2437577/ayordy67">ayordy67</a> <span class="reputation-score" title="reputation score " dir="ltr">1</span>
+        </div>
+    </div>
+</div>
+
+<div class="question-summary narrow"
+     id="question-summary-39558443"
+     
+     
+     >
+    <div onclick="window.location.href='/questions/39558443/how-to-send-blob-url-to-ajax'" class="cp">
+        <div class="votes">
+            <div class="mini-counts"><span title="3 votes">3</span></div>
+            <div>votes</div>
+        </div>
+        <div class="status unanswered">
+            <div class="mini-counts"><span title="0 answers">0</span></div>
+            <div>answers</div>
+        </div>
+        <div class="views">
+            <div class="mini-counts"><span title="13 views">13</span></div>
+            <div>views</div>
+        </div>
+    </div>
+    <div class="summary">
+        
+                    <h3><a href="/questions/39558443/how-to-send-blob-url-to-ajax" class="question-hyperlink" title="i am using voice recorder tool to record voice . when i click play button 
+
+below code runs
+
+Fr.voice.export(function(url){
+  jQuery(&quot;#audio&quot;).attr(&quot;src&quot;, url);
+  jQuery(&quot;#audio&quot;)[0].play();
+}, &quot;URL&quot;);...">how to send blob url to ajax</a></h3>
+        <div class="tags t-php t-jquery t-ajax t-blob">
+            <a href="/questions/tagged/php" class="post-tag" title="show questions tagged &#39;php&#39;" rel="tag">php</a> <a href="/questions/tagged/jquery" class="post-tag" title="show questions tagged &#39;jquery&#39;" rel="tag">jquery</a> <a href="/questions/tagged/ajax" class="post-tag" title="show questions tagged &#39;ajax&#39;" rel="tag">ajax</a> <a href="/questions/tagged/blob" class="post-tag" title="show questions tagged &#39;blob&#39;" rel="tag">blob</a> 
+        </div>
+        <div class="started">
+            <a href="/questions/39558443/how-to-send-blob-url-to-ajax" class="started-link">asked <span title="2016-09-18 14:01:17Z" class="relativetime">1 hour ago</span></a>
+            <a href="/users/6643292/gaurav">gaurav</a> <span class="reputation-score" title="reputation score " dir="ltr">27</span>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+    <br class="cbt"/>
+    <h2 class="bottom-notice" data-loc="2">Looking for more? Browse the <a href="/questions">complete list of questions</a>, or <a href="/tags">popular tags</a>. Help us answer <a href="/unanswered">unanswered questions</a>.</h2>
+<script>
+    StackExchange.ready(function() { StackExchange.question.initShareLinks(); });
+</script></div>
